@@ -26,7 +26,7 @@ class Program
         productPrice = double. Parse(Console.ReadLine()); // Convert and assign the user's input to productPrice
         
         // Prompt the user to indicate if they are a student
-        Console.Write("Are you a student? (true/false): ");
+        Console.Write("Are you a student? (true/false):  ");
         isStudent = bool. Parse(Console.ReadLine()); // Convert and assign the user's input to isStudent
         
         // Step 3.2: Perform calculations
